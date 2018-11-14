@@ -9,6 +9,7 @@ import * as styles from './App.module.css';
 
 import Cell from './Cell/Cell';
 import scenes from './scenes';
+import ghIcon from './assets/gh-icon.png';
 
 export const STATE = {DEAD: 0, ALIVE: 1};
 
@@ -87,7 +88,16 @@ class App extends Component {
         const {isStarted, grid, speed} = this.state;
         return (
             <div>
-                <h1>Conway's Game of Life</h1>
+                <h1>
+                    Conway's Game of Life
+                    <a
+                        href="https://github.com/AlexandrLi/cgol-react"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <img src={ghIcon} alt="gh-repo" />
+                    </a>
+                </h1>
                 <div className={styles.Container}>
                     <Paper elevation={2}>
                         <div className={styles.Grid}>

@@ -29,3 +29,16 @@
 .Scenes > div {
     margin: 0 5px;
 }
+
+h1 > a {
+    margin-left: 5px;
+}
+
+a > img {
+    width: 25px;
+    opacity: 0.7;
+}
+
+a > img:hover {
+    opacity: 1;
+}
