@@ -1,13 +1,14 @@
 {
-  "main.css": "/cgol-react/static/css/main.1c789a42.chunk.css",
-  "main.js": "/cgol-react/static/js/main.efb28a19.chunk.js",
-  "main.js.map": "/cgol-react/static/js/main.efb28a19.chunk.js.map",
-  "static/js/1.2534168e.chunk.js": "/cgol-react/static/js/1.2534168e.chunk.js",
-  "static/js/1.2534168e.chunk.js.map": "/cgol-react/static/js/1.2534168e.chunk.js.map",
+  "main.css": "/cgol-react/static/css/main.75c516db.chunk.css",
+  "main.js": "/cgol-react/static/js/main.664eae7d.chunk.js",
+  "main.js.map": "/cgol-react/static/js/main.664eae7d.chunk.js.map",
+  "static/js/1.45671cb3.chunk.js": "/cgol-react/static/js/1.45671cb3.chunk.js",
+  "static/js/1.45671cb3.chunk.js.map": "/cgol-react/static/js/1.45671cb3.chunk.js.map",
   "runtime~main.js": "/cgol-react/static/js/runtime~main.204a6893.js",
   "runtime~main.js.map": "/cgol-react/static/js/runtime~main.204a6893.js.map",
-  "static/css/main.1c789a42.chunk.css.map": "/cgol-react/static/css/main.1c789a42.chunk.css.map",
+  "static/media/gh-icon.png": "/cgol-react/static/media/gh-icon.b71bc541.png",
+  "static/css/main.75c516db.chunk.css.map": "/cgol-react/static/css/main.75c516db.chunk.css.map",
   "index.html": "/cgol-react/index.html",
-  "precache-manifest.bb6357d8e45f8ffacfc460267756eb1b.js": "/cgol-react/precache-manifest.bb6357d8e45f8ffacfc460267756eb1b.js",
+  "precache-manifest.67a995956924151d052bf9556a95b0e7.js": "/cgol-react/precache-manifest.67a995956924151d052bf9556a95b0e7.js",
   "service-worker.js": "/cgol-react/service-worker.js"
 }
