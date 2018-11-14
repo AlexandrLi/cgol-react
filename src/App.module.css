@@ -1,0 +1,31 @@
+.Container {
+    display: flex;
+    align-items: center;
+}
+
+.Grid {
+    margin: 25px;
+}
+
+.Grid > ul {
+    margin: 0;
+    padding: 0;
+}
+
+.Controls {
+    margin-left: 50px;
+    display: flex;
+    flex-flow: column;
+}
+
+.Controls button {
+    margin-top: 10px;
+}
+
+.Scenes {
+    margin-top: 10px;
+}
+
+.Scenes > div {
+    margin: 0 5px;
+}

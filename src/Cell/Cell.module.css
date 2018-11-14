@@ -1,0 +1,20 @@
+.Cell {
+    display: inline-flex;
+    width: 30px;
+    height: 30px;
+    margin: 1px;
+    background-color: #e4e4e4;
+}
+
+.Dead > div {
+    height: 100%;
+    width: 100%;
+    border: 1px solid #8b8b8b;
+    border-radius: 4px;
+}
+
+.Alive > div {
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+}
