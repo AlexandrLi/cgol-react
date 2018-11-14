@@ -174,7 +174,7 @@ describe('Conways game of life', () => {
         expect(wrapper.state().speed).toEqual(50);
     });
 
-    it('Should set scene1 on first chip click', () => {
+    it('Should set scene1 on first Chip click', () => {
         const wrapper = shallow(<App />);
         wrapper
             .find('[label="Scene 1"]')
@@ -183,7 +183,7 @@ describe('Conways game of life', () => {
         expect(wrapper.state().grid).toEqual(scenes.first);
     });
 
-    it('Should set scene 2 on first chip click', () => {
+    it('Should set scene 2 on second Chip click', () => {
         const wrapper = shallow(<App />);
         wrapper
             .find('[label="Scene 2"]')
@@ -192,7 +192,7 @@ describe('Conways game of life', () => {
         expect(wrapper.state().grid).toEqual(scenes.second);
     });
 
-    it('Should set scene 3 on first chip click', () => {
+    it('Should set scene 3 on third Chip click', () => {
         const wrapper = shallow(<App />);
         wrapper
             .find('[label="Scene 3"]')
